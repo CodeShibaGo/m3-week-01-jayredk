@@ -9,4 +9,3 @@ def distinct(seq):
             num_set.add(num)
             arr.append(num)
     return arr
-    pass

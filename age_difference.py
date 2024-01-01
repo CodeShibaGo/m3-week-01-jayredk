@@ -7,4 +7,3 @@ def age_difference(ages):
         if age < min:
             min = age
     return (min, max)
-    pass

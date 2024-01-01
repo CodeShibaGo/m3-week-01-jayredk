@@ -3,4 +3,3 @@ def change_case(input_str, case):
         return input_str.upper()
     elif case == 'lower':
         return input_str.lower()
-    pass

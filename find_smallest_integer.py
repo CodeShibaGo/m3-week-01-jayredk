@@ -3,4 +3,3 @@ def find_smallest_int(arr):
     for num in arr:
         ans = min(ans, num)
     return ans
-    pass

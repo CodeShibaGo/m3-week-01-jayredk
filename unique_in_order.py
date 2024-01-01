@@ -12,4 +12,3 @@ def unique_in_order(iterable):
             index += 1
             
     return arr
-    pass

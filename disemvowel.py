@@ -7,4 +7,3 @@ def disemvowel(s):
         string += char
 
     return string
-    pass

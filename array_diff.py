@@ -5,4 +5,3 @@ def array_diff(a, b):
             continue
         arr.append(el)
     return arr
-    pass
